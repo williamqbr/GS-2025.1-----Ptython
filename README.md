@@ -1,4 +1,4 @@
-# GS-2025.1-----Ptython
+# GS-2025.1---Ptython
 
 **Objetivo**
 
