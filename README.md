@@ -1,6 +1,6 @@
-# GS-2025.1---Ptython
+# Global Solution-2025.1---Ptython
 
-**Objetivo**
+## **Objetivo**
 
 
 Desenvolver uma aplicação em Python que aborde soluções para o desafio das enchentes e seus
